@@ -4,17 +4,14 @@ Una espinita clavada, igual que la lanza en el pecho de uno de los dragones de D
 
 Así que, en una tarde tonta tras el estreno de Juego de Tronos, he jugado a esto:
 
-<iframe src="https://codesandbox.io/embed/oqnyw63255?fontsize=14&hidenavigation=1&module=%2Fsrc%2Findex.js&theme=dark&view=editor"
-     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="Game of Thrones Javascript Import Export Examples"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe>
+(la imagen te abrirá un editor)
+
+[![image](https://github.com/webreactiva-devs/game-of-thrones-javascript-import-export-examples/assets/1122071/65ac89a3-d32c-42e3-aaef-05fb311e995e)](https://codesandbox.io/embed/oqnyw63255?fontsize=14&hidenavigation=1&module=%2Fsrc%2Findex.js&theme=dark&view=editor)
 
 
-   Una vez descargado solo tienes que ejecutar este comando:
+Puedes descargarte el repositorio  y ejecutar esto:
 
-npm run start
+`npm run start`
 
 Abrir el navegador y posteriormente la consola de desarrollador, para ver los mensajes que se envían con console.log().
 
